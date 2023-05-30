@@ -1,3 +1,7 @@
+<!-- Before using this plugin  -->
+https://wordpress.org/plugins/tlp-portfolio/
+
+<!-- After use this shortcode -->
 <?php
 
 add_shortcode('portfolio_popup', 'popup_portfolio_company');
