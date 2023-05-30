@@ -1,3 +1,5 @@
+<?php
+
 add_shortcode('portfolio_popup', 'popup_portfolio_company');
 function popup_portfolio_company(){
     ob_start(); 
